@@ -1,0 +1,1 @@
+cmake -DOpenCV_DIR=D:\Apps\opencv\build\x64\vc15\lib -G "Visual Studio 15 2017 Win64" ..
